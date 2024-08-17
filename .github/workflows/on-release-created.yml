@@ -1,4 +1,4 @@
-name: On Release Created (Publish cherrypick-js)
+name: On Release Created
 
 on:
   release:
