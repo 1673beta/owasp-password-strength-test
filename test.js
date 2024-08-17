@@ -1,5 +1,5 @@
 import pkg from 'should';
-import owasp from './hoge.js';
+import owasp from './owasp-password-strength-test.js';
 
 const { should } = pkg;
 
