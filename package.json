@@ -4,6 +4,7 @@
   "description": "A password-strength tester based upon the OWASP guidelines for enforcing strong passwords.",
   "main": "owasp-password-strength-test.js",
   "type": "module",
+  "typings": "./index.d.ts",
   "devDependencies": {
     "@biomejs/biome": "1.8.3",
     "jshint": "2.6.3",
