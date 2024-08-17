@@ -1,5 +1,5 @@
 {
-  "name": "owasp-password-strength-test",
+  "name": "@esurio/owasp-password-strength-test",
   "version": "1.3.0",
   "description": "A password-strength tester based upon the OWASP guidelines for enforcing strong passwords.",
   "main": "owasp-password-strength-test.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nowsecure/owasp-password-strength-test.git"
+    "url": "https://github.com/1673beta/owasp-password-strength-test.git"
   },
   "keywords": [
     "security",
